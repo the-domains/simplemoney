@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SimpleMoney]]></title>
         <description><![CDATA[SimpleMoney]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/simplemoney/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 16:36:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 16:50:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/simplemoney/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b2880b3-7dd8-44fd-bd38-7198ee2d6b6f.jpg">]]></description>
-            <link>undefinedfc4142c7-a849-404a-bf3f-908b4f428a89/index.html</link>
+            <link>https://thegrid.ai/simplemoney/fc4142c7-a849-404a-bf3f-908b4f428a89/index.html</link>
             <guid isPermaLink="false">fc4142c7-a849-404a-bf3f-908b4f428a89</guid>
-            <pubDate>Fri, 04 Mar 2016 16:36:06 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 16:50:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
