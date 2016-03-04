@@ -1,7 +1,7 @@
 name: SimpleMoney
 favicon: null
 layout_spectrum: 0.3576233694329858
-typography_spectrum: 0.8967006937600672
+typography_spectrum: 0.46053
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#223770'
+    - '#ffffff'
+    - '#7f888f'
+    - '#4c5485'
+    - '#b9b7cd'
   brandStrength: 0.4622236737050116
   lightness: 0.3821601264644414
   saturation: 0.2722673264797777
